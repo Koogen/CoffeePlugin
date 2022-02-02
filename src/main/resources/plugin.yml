@@ -1,0 +1,4 @@
+name: CoffeePlugin
+version: '${project.version}'
+main: me.koogen.coffeeplugin.CoffeePlugin
+api-version: 1.18
